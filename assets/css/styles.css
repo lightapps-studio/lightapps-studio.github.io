@@ -16,5 +16,6 @@ button, input {
 
 #quotation-modal .list-group-item {
   cursor: pointer;
+  font-weight: 300;
 }
 
