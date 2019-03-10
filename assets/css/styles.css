@@ -6,3 +6,15 @@ body {
 button, input {
 }
 
+#quotation-modal .list-group-item .fa {
+  color: #055ada;
+}
+
+#quotation-modal .list-group-item.active .fa {
+  color: white;
+}
+
+#quotation-modal .list-group-item {
+  cursor: pointer;
+}
+
